@@ -29,9 +29,9 @@ export const MESSAGES = [
   ],
   [
     '',
-    'STAY HUNGRY',
-    'STAY FOOLISH',
-    '- STEVE JOBS',
+    'Evil people get rich for the moment,',
+    'but the reward of the godly will last.',
+    '- Proverbs 11:18',
     ''
   ],
   [
